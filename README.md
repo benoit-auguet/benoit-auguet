@@ -1,7 +1,7 @@
 - 👋 Bonjour je suis @benoit-auguet.
-- 👀 Je suis intéressé par TAOCP, MMIX, CWEB, C++, L, la physique, l'astronomie, les mathématiques et le numériques.
+- 👀 Je suis intéressé par TAOCP, MMIX, CWEB, C++, L, la physique, l'astronomie, les mathématiques et le numérique.
 - 🌱 J'apprends perpétuellement...
-- 💞️ Je cherche á collaborer sur... on verra.
+- 💞️ Je cherche à collaborer sur... on verra.
 - 📫 Contact par github.
 
 <!---
